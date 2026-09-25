@@ -2,6 +2,12 @@
 
 A personal finance analytics project that processes transaction data and turns it into useful financial insights.
 
+## Data Disclaimer
+
+No real bank account, credit card, or personal financial information is used in this project.
+
+The dataset is designed to simulate realistic college-student financial transactions so that the project can demonstrate data cleaning, categorization, analysis, SQL, and Tableau visualization.
+
 ## Technologies
 
 - Python
